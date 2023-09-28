@@ -27,14 +27,13 @@ it proved that the innovative user interface and interaction can be implemented 
 
 iPad Testing
 
-https://github.com/wengchonglao0124/iStruct2D-iPadOS-Demo/assets/85862169/264cd46e-0f53-4ca1-bb50-36629bc32891
+https://github.com/wengchonglao0124/iStruct2D-iPadOS-Demo/assets/85862169/ca4026e7-b0c7-4cb9-bf6c-7dacaedfe8ed
 
 
 Simulator Testing
 
 https://github.com/wengchonglao0124/iStruct2D-iPadOS-Demo/assets/85862169/775462cf-74fa-4d01-bc18-7f2d2a4ff721
 
-https://github.com/wengchonglao0124/iStruct2D-iPadOS-Demo/assets/85862169/775462cf-74fa-4d01-bc18-7f2d2a4ff721
 
 <br/>
 
